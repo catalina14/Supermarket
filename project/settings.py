@@ -39,7 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
-    'supermarket_ms.apps.SupermarketMSConfig'
+    'supermarket_ms.apps.SupermarketMSConfig',
+    'drf_yasg'
 ]
 
 MIDDLEWARE = [
